@@ -80,7 +80,7 @@ A modern **e-commerce web app** built with **React, TypeScript, and Supabase**, 
 
 ---
 
-### ⚙️ AI Automation Workflow (n8n-style)
+### ⚙️ AI Automation Workflow
 
 ```mermaid
 flowchart LR
