@@ -1,10 +1,10 @@
 # 🤖 Archilles Jacob
 
-**`AI Software Developer (Agentic AI | Backend Systems | LLMs)`**
+**`AI Software Developer (Agentic AI | Backend Systems | LLMs | Reverse Engineer| Data Engineer)`**
 
 I’m a specialized AI Software Developer architecting **cutting-edge artificial intelligence solutions** with a focus on **agentic AI development** and robust backend systems. My journey began as a Data Scientist and has evolved into building production-ready AI applications powered by **Large Language Models (LLMs)**, **RAG systems**, and **autonomous multi-agent pipelines**.  
 
-I design and implement sophisticated AI agents — from **voice assistants** to **call-center automation**, **social media AI bots**, and **web-based assistants** — delivering real business value with innovative AI-driven solutions.
+I design and implement sophisticated AI agents from orchestrating architectual mind maps iteration process and implementation— from **voice assistants** to **call-center automation**, **social media AI bots**, and **web-based assistants** — delivering real business value with innovative AI-driven solutions.
 
 ---
 
